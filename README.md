@@ -1,2 +1,2 @@
 # hello-world
-The first repository
+Meine Forschung fokussiert sich auf die physiologischen Grundlagen kognitiver Funktionen. Ich nutze experimentelle und theoretische Ansätze, um die Verarbeitung multi-sensorischer Reize zu untersuchen. Wir nutzen einen natürlichen Kontext, um ein komplexes Verhaltensrepertoire zu ermöglichen und sensomotorische Kopplung in voller Tiefe zu erforschen. Die Rolle der top-down-Signale, ihre Beziehung zu rhythmischer Aktivität und Plastizität in neuronalen Netzwerken steht im Mittelpunkt des Interesses. Wir versuchen die hieraus gewonnenen Erkenntnisse auf reale Anwendungen zu übertragen und so zu verifizieren. 
